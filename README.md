@@ -1,2 +1,2 @@
-# Lectures Notes from Master Degree in Computer Science UNIMI
-My notes on what I studied during university
+# Lectures Notes
+Lectures notes (LaTex) on what I studied during my master degree in computer science in UNIMI
